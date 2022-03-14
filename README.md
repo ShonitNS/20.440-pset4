@@ -40,3 +40,8 @@ The folder structure of the repository is the following:
 
 INSTALLATION
 The code can be run in the Visual Studio Code program (downloaded here: https://code.visualstudio.com/). The code was run successfully on Python 3.7.9.
+
+Required packages:
+     - Bio 1.3.3
+     - matplotlib 3.3.4
+     - numpy 1.20.1
